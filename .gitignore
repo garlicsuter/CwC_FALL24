@@ -26,6 +26,15 @@ Unit3/[Bb]uilds/
 Unit3/[Ll]ogs/
 Unit3/[Uu]ser[Ss]ettings/
 
+CwC4_rollaball/[Ll]ibrary/
+CwC4_rollaball/[Tt]emp/
+CwC4_rollaball/[Oo]bj/
+CwC4_rollaball/[Bb]uild/
+CwC4_rollaball/[Bb]uilds/
+CwC4_rollaball/[Ll]ogs/
+CwC4_rollaball/[Uu]ser[Ss]ettings/
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
