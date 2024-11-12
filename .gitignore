@@ -34,6 +34,13 @@ CwC4_rollaball/[Bb]uilds/
 CwC4_rollaball/[Ll]ogs/
 CwC4_rollaball/[Uu]ser[Ss]ettings/
 
+CwC5_GUI/[Ll]ibrary/
+CwC5_GUI/[Tt]emp/
+CwC5_GUI/[Oo]bj/
+CwC5_GUI/[Bb]uild/
+CwC5_GUI/[Bb]uilds/
+CwC5_GUI/[Ll]ogs/
+CwC5_GUI/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
